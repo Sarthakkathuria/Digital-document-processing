@@ -1,5 +1,16 @@
 # Digital-document-processing
-
+In the last years, the spread of computers and the Internet caused a 
+significant amount of documents to be available in digital format. 
+Collecting them in digital repositories raised problems that go beyond 
+simple acquisition issues, and cause the need to organize and classify 
+them in order to improve the effectiveness and efficiency of the 
+retrieval procedure. The success of such a process is tightly related to
+ the ability of understanding the semantics of the document components 
+and content. Since the obvious solution of manually creating and 
+maintaining an updated index is clearly infeasible, due to the huge 
+amount of data under consideration, there is a strong interest in 
+methods that can provide solutions for automatically acquiring such a 
+knowledge.
 # Requirements
 sudo apt-get install python-imaging
 
